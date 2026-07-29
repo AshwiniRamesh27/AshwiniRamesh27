@@ -1,170 +1,174 @@
-# Ashwini Ramesh
+<!--
+  SETUP:
+  1. Create a repo named EXACTLY your GitHub username (e.g. github.com/ragnar/ragnar)
+  2. Make it Public, tick "Add a README file"
+  3. Paste this in, replace every YOUR-USERNAME / YOUR-* placeholder
+  4. Delete these comment lines
+-->
 
-<p align="center">
-  <b>AI/ML Engineer | Backend Developer</b>
-</p>
+<div align="center">
 
-<p align="center">
-Building production-ready AI systems with Python, FastAPI, LLMs, and scalable backend technologies.
-</p>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://YOUR-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
 
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=AI%2FML+Engineer;FastAPI+Developer;Building+LLM+Applications;Backend+Systems)](https://git.io/typing-svg)
-
-</p>
-
----
-
-## Connect
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AshwiniRamesh27)
-
-[![Email](https://img.shields.io/badge/Email-2563EB?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-[![Resume](https://img.shields.io/badge/Resume-2563EB?style=flat)](YOUR_RESUME)
-
-</p>
+</div>
 
 ---
 
-# About
+## ✦ About Me
 
-- AI/ML Engineer focused on building reliable production systems.
-- Developing scalable backend APIs with **FastAPI** and Python.
-- Building LLM applications using modern AI frameworks.
-- Experienced with authentication, API gateways, caching, and model routing.
-- Interested in production AI infrastructure and backend architecture.
-- Always learning and continuously improving.
+```yaml
+name: YOUR NAME
+role: Supply Chain Planning Specialist  →  Automation Engineer
+specialization:
+  - Planning systems & demand/supply orchestration
+  - Excel + VBA + Office Scripts automation at scale
+  - Power Automate workflow engineering
+  - Manufacturing ERP design for small job shops
+location: Tamil Nadu, India
+status: Open to automation & supply-chain-tech roles
+```
 
----
-
-# Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-2563EB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=flat&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2563EB?style=flat&logo=cplusplus&logoColor=white)
+I build the boring software that quietly removes hours from people's weeks. My work sits where supply chain planning meets engineering — turning manual trackers, WhatsApp follow-ups, and tribal knowledge into systems that run themselves.
 
 ---
 
-### AI & Machine Learning
+## ✦ Tech Stack
 
-![OpenAI](https://img.shields.io/badge/OpenAI-2563EB?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-2563EB?style=flat)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-2563EB?style=flat)
-![Transformers](https://img.shields.io/badge/Transformers-2563EB?style=flat)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-2563EB?style=flat)
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/VBA-867DB1?style=flat&logo=visualbasic&logoColor=white" />
+<img src="https://img.shields.io/badge/Office_Scripts-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 
-### Backend
+<br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=flat&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-2563EB?style=flat&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=flat&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-2563EB?style=flat)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white" />
 
----
+<br/>
 
-### DevOps
+<img src="https://img.shields.io/badge/SUPPLY_CHAIN_PLANNING-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JOB_COSTING-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PROCESS_AUTOMATION-000000?style=for-the-badge" />
 
-![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2563EB?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2563EB?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2563EB?style=flat&logo=githubactions&logoColor=white)
-
----
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-2563EB?style=flat&logo=react&logoColor=white)
+</div>
 
 ---
 
-# Featured Projects
+## ✦ Current Focus
 
-## MAAS Model Gateway
-
-Production-ready AI Gateway for serving multiple language models securely.
-
-**Highlights**
-
-- Authentication & Authorization
-- API Key Management
-- Redis Caching
-- Rate Limiting
-- Usage Analytics
-- Dynamic Model Routing
+- Designing a lightweight ERP layer for small-scale fabrication manufacturing.
+- Removing single-point-of-failure dependencies from owner-run operations.
+- Building reusable automation patterns across Excel, Office Scripts, and Power Automate.
+- Moving from spreadsheet-native tooling toward proper backend systems.
 
 ---
 
-## RAG Chatbot
+### Phase-1 Fabrication ERP — Excel-Native Manufacturing System
 
-Retrieval-Augmented Generation system for intelligent document conversations.
+A six-register operating system for a job-shop fabrication business, replacing paper registers and the owner's memory with a live, auditable data layer.
 
-**Highlights**
+**Key Differentiator**
+- Six interlocking registers — Orders, Receivables, Subcon, Stock, PartMaster, Issues — reconciled through verified cross-sheet formulas rather than manual re-entry.
+- Ships with per-user daily ritual scripts, so adoption is a routine rather than a training problem.
+- Live dashboard surfaces cash position, WIP, and overdue receivables without anyone running a report.
 
-- PDF Chat
-- Embeddings
-- Vector Search
-- Streaming Responses
-- Context Retrieval
+**Stack**
 
----
-
-## AI APIs
-
-Modern backend APIs built with FastAPI.
-
-**Highlights**
-
-- FastAPI
-- JWT Authentication
-- PostgreSQL
-- Docker Deployment
-- Production-ready REST APIs
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/VBA-867DB1?style=flat&logo=visualbasic&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat&logo=powerbi&logoColor=black" />
 
 ---
 
-# GitHub Statistics
+### Site Balancing Request Automation
 
-<p align="center">
+An end-to-end request-and-reminder pipeline that replaced manual chase-ups across a planning team with a self-driving escalation flow.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AshwiniRamesh27&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=555&bg_color=ffffff"/>
+**Key Differentiator**
+- Office Scripts read and mutate a shared Excel Master Tracker directly in the cloud — no local runtime, no desktop dependency.
+- Power Automate handles scheduled scanning, conditional escalation, and targeted notification without human triggering.
+- Designed so the tracker stays the single source of truth instead of the flow forking its own state.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniRamesh27&layout=compact&hide_border=true&title_color=2563EB&text_color=555&bg_color=ffffff"/>
+**Stack**
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AshwiniRamesh27&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB"/>
-
-</p>
-
----
-
-# Contributions
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwiniRamesh27&bg_color=ffffff&color=555555&line=2563EB&point=2563EB&area=false&hide_border=true"/>
-
-</p>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/Office_Scripts-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
 
 ---
 
-<p align="center">
+### Cash Flow & Job Costing Engine
 
-**Building AI systems that solve real problems.**
+A financial control workbook for a multi-loan, multi-job manufacturing business operating on thin margins.
 
-</p>
+**Key Differentiator**
+- 13-week rolling cash flow forecast that reprojects automatically as orders and receivables move.
+- Integrated rate calculator and breakeven model, so quoting decisions are grounded in actual loaded cost.
+- Multi-loan amortisation tracking surfaces true debt servicing pressure against incoming collections.
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Financial_Modelling-000000?style=flat" />
+
+---
+
+### Item Master Plan — Flag Check Automation
+
+A VBA pipeline that consolidates and validates planning data across multiple source workbooks.
+
+**Key Differentiator**
+- Automates pivot construction and cross-workbook reconciliation that previously ran as a manual, error-prone routine.
+- Flag-check logic catches master data inconsistencies before they propagate into the plan.
+- Cuts a recurring multi-hour task down to a single execution.
+
+**Stack**
+
+<img src="https://img.shields.io/badge/VBA-867DB1?style=flat&logo=visualbasic&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+
+---
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="150" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&theme=tokyonight" height="160" />
+
+</div>
+
+---
+
+## ✦ Beyond Code
+
+- Interested in astrophysics and theoretical physics — wormhole mechanics and closed timelike curves are a recurring rabbit hole.
+- ECE background; still drawn to signal processing and RF systems.
+- Prefer systems that survive contact with real users over demos that only work in a screenshot.
+
+---
+
+## ✦ Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
