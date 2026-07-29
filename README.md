@@ -1,174 +1,250 @@
-<!--
-  SETUP:
-  1. Create a repo named EXACTLY your GitHub username (e.g. github.com/ragnar/ragnar)
-  2. Make it Public, tick "Add a README file"
-  3. Paste this in, replace every YOUR-USERNAME / YOUR-* placeholder
-  4. Delete these comment lines
--->
-
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+# Ashwini Ramesh
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+### AI/ML Engineer • LLM Engineer • Backend Developer
+
+Building production-ready AI systems with **Python, FastAPI, LLMs, RAG, Agentic AI, and scalable backend infrastructure.**
+
+<p>
+<a href="https://github.com/AshwiniRamesh27">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=Production+AI+Systems;LLM+Engineering;FastAPI+%7C+RAG+%7C+MLOps;Building+Enterprise+AI+Platforms" />
+</a>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/ashwini27">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ashwiniramesh2709@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AshwiniRamesh27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=AshwiniRamesh27&style=flat-square)
 
 </div>
 
 ---
 
-## ✦ About Me
+# About
 
-```yaml
-name: YOUR NAME
-role: Supply Chain Planning Specialist  →  Automation Engineer
-specialization:
-  - Planning systems & demand/supply orchestration
-  - Excel + VBA + Office Scripts automation at scale
-  - Power Automate workflow engineering
-  - Manufacturing ERP design for small job shops
-location: Tamil Nadu, India
-status: Open to automation & supply-chain-tech roles
-```
+AI/ML Engineer specializing in **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, and production backend systems.**
 
-I build the boring software that quietly removes hours from people's weeks. My work sits where supply chain planning meets engineering — turning manual trackers, WhatsApp follow-ups, and tribal knowledge into systems that run themselves.
+I enjoy building AI products that move beyond experimentation into reliable production systems—designing scalable APIs, model-serving infrastructure, authentication systems, and intelligent workflows used by real users.
+
+Currently working on enterprise AI platforms involving model routing, embeddings, translation services, vector search, authentication, and AI infrastructure.
 
 ---
 
-## ✦ Tech Stack
+# Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,linux,postgres,docker"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-black?style=flat"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-red?style=flat"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+
+</p>
+
+### AI / ML
+
+<p>
+
+<img src="https://img.shields.io/badge/LLMs-black?style=flat"/>
+<img src="https://img.shields.io/badge/RAG-black?style=flat"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat"/>
+<img src="https://img.shields.io/badge/LangGraph-black?style=flat"/>
+<img src="https://img.shields.io/badge/Transformers-yellow?style=flat"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LoRA-black?style=flat"/>
+<img src="https://img.shields.io/badge/PEFT-black?style=flat"/>
+<img src="https://img.shields.io/badge/NLP-black?style=flat"/>
+<img src="https://img.shields.io/badge/Vector_Database-black?style=flat"/>
+
+</p>
+
+### DevOps & MLOps
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-black?style=flat"/>
+<img src="https://img.shields.io/badge/Model_Serving-black?style=flat"/>
+<img src="https://img.shields.io/badge/API_Gateway-black?style=flat"/>
+
+</p>
+
+---
+
+# Featured Projects
+
+## MAAS Gateway (Model-as-a-Service)
+
+Enterprise AI gateway designed for securely serving multiple LLM providers through a unified API.
+
+### Highlights
+
+- Multi-provider model routing
+- Authentication & Authorization
+- API Key Management
+- Rate Limiting
+- Usage Analytics
+- Workspace Management
+- FastAPI Backend
+- PostgreSQL
+- Redis
+- Production Deployment
+
+**Tech**
+
+`Python` `FastAPI` `Redis` `PostgreSQL` `JWT` `Docker`
+
+---
+
+## Enterprise RAG Platform
+
+Production Retrieval-Augmented Generation system for enterprise knowledge retrieval.
+
+### Features
+
+- Hybrid Retrieval
+- Embedding Search
+- Vector Database
+- Query Expansion
+- Re-ranking
+- Context Compression
+- Response Generation
+
+**Tech**
+
+`LangChain` `Embeddings` `Vector Search` `FastAPI`
+
+---
+
+## LLM Fine-Tuning Pipeline
+
+Built domain-specific LLM fine-tuning workflows using modern parameter-efficient techniques.
+
+### Features
+
+- LoRA
+- PEFT
+- SFT
+- Model Evaluation
+- Training Pipelines
+- Inference Optimization
+
+---
+
+## AI UPI Transaction Analyzer
+
+AI-powered financial statement analyzer using LLMs.
+
+### Features
+
+- PDF Processing
+- Transaction Understanding
+- Automated Insights
+- Natural Language Querying
+
+---
+
+## AI Skin Recommendation System
+
+Multimodal AI application combining image understanding with LLM-powered recommendations.
+
+---
+
+# Current Focus
+
+- Building scalable AI Infrastructure
+- Enterprise LLM Platforms
+- FastAPI Backend Systems
+- Model Routing
+- Agentic AI
+- AI Workflows
+- MLOps
+- Distributed AI Systems
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/VBA-867DB1?style=flat&logo=visualbasic&logoColor=white" />
-<img src="https://img.shields.io/badge/Office_Scripts-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AshwiniRamesh27&show_icons=true&theme=transparent&hide_border=true"/>
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniRamesh27&layout=compact&theme=transparent&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/SUPPLY_CHAIN_PLANNING-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JOB_COSTING-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PROCESS_AUTOMATION-000000?style=for-the-badge" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshwiniRamesh27&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-## ✦ Current Focus
+# Currently Exploring
 
-- Designing a lightweight ERP layer for small-scale fabrication manufacturing.
-- Removing single-point-of-failure dependencies from owner-run operations.
-- Building reusable automation patterns across Excel, Office Scripts, and Power Automate.
-- Moving from spreadsheet-native tooling toward proper backend systems.
-
----
-
-### Phase-1 Fabrication ERP — Excel-Native Manufacturing System
-
-A six-register operating system for a job-shop fabrication business, replacing paper registers and the owner's memory with a live, auditable data layer.
-
-**Key Differentiator**
-- Six interlocking registers — Orders, Receivables, Subcon, Stock, PartMaster, Issues — reconciled through verified cross-sheet formulas rather than manual re-entry.
-- Ships with per-user daily ritual scripts, so adoption is a routine rather than a training problem.
-- Live dashboard surfaces cash position, WIP, and overdue receivables without anyone running a report.
-
-**Stack**
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/VBA-867DB1?style=flat&logo=visualbasic&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat&logo=powerbi&logoColor=black" />
+- Long Context LLMs
+- AI Agents
+- LangGraph
+- Multi-Agent Systems
+- MCP
+- Distributed AI Architectures
+- Open Source Models
+- Inference Optimization
 
 ---
 
-### Site Balancing Request Automation
+# Philosophy
 
-An end-to-end request-and-reminder pipeline that replaced manual chase-ups across a planning team with a self-driving escalation flow.
+> Great AI isn't just about the model.
 
-**Key Differentiator**
-- Office Scripts read and mutate a shared Excel Master Tracker directly in the cloud — no local runtime, no desktop dependency.
-- Power Automate handles scheduled scanning, conditional escalation, and targeted notification without human triggering.
-- Designed so the tracker stays the single source of truth instead of the flow forking its own state.
-
-**Stack**
-
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white" />
-<img src="https://img.shields.io/badge/Office_Scripts-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+> It's about the engineering that makes the model reliable, scalable, observable, secure, and usable in production.
 
 ---
 
-### Cash Flow & Job Costing Engine
+# Let's Connect
 
-A financial control workbook for a multi-loan, multi-job manufacturing business operating on thin margins.
+<p align="center">
 
-**Key Differentiator**
-- 13-week rolling cash flow forecast that reprojects automatically as orders and receivables move.
-- Integrated rate calculator and breakeven model, so quoting decisions are grounded in actual loaded cost.
-- Multi-loan amortisation tracking surfaces true debt servicing pressure against incoming collections.
+<a href="https://www.linkedin.com/in/ashwini27">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Stack**
+<a href="mailto:ashwiniramesh2709@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Financial_Modelling-000000?style=flat" />
+<a href="https://github.com/AshwiniRamesh27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
-
-### Item Master Plan — Flag Check Automation
-
-A VBA pipeline that consolidates and validates planning data across multiple source workbooks.
-
-**Key Differentiator**
-- Automates pivot construction and cross-workbook reconciliation that previously ran as a manual, error-prone routine.
-- Flag-check logic catches master data inconsistencies before they propagate into the plan.
-- Cuts a recurring multi-hour task down to a single execution.
-
-**Stack**
-
-<img src="https://img.shields.io/badge/VBA-867DB1?style=flat&logo=visualbasic&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+</p>
 
 ---
-
-## ✦ GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="150" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&theme=tokyonight" height="160" />
-
-</div>
-
----
-
-## ✦ Beyond Code
-
-- Interested in astrophysics and theoretical physics — wormhole mechanics and closed timelike curves are a recurring rabbit hole.
-- ECE background; still drawn to signal processing and RF systems.
-- Prefer systems that survive contact with real users over demos that only work in a screenshot.
-
----
-
-## ✦ Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+*"Building AI that ships to production, not just notebooks."*
 
 </div>
