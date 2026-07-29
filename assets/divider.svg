@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="1200" height="28" role="img" aria-label="Section divider">
-  <path d="M0 14H1200" stroke="#21262D" stroke-width="1"/>
-  <path d="M96 14H236" stroke="#3D444D" stroke-width="1"/>
-  <path d="M1104 14H1200" stroke="#161B22" stroke-width="1"/>
-  <rect x="76" y="10" width="8" height="8" transform="rotate(45 80 14)" fill="none" stroke="#58A6FF" stroke-width="1"/>
-  <circle cx="252" cy="14" r="1.4" fill="#30363D"/>
-  <circle cx="268" cy="14" r="1.4" fill="#21262D"/>
-</svg>
