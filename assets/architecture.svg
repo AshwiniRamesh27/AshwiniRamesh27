@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" role="img" aria-label="Reference architecture: client to gateway to authentication to model router to language models to response">
+
+  <rect x="0" y="0" width="1200" height="700" rx="14" fill="#0A0C10"/>
+  <rect x="0.5" y="0.5" width="1199" height="699" rx="14" fill="none" stroke="#1C2128" stroke-width="1"/>
+
+  <!-- grid -->
+  <g stroke="#12161C" stroke-width="1">
+    <path d="M120 0V700M240 0V700M360 0V700M480 0V700M600 0V700M720 0V700M840 0V700M960 0V700M1080 0V700"/>
+    <path d="M0 100H1200M0 200H1200M0 300H1200M0 400H1200M0 500H1200M0 600H1200"/>
+  </g>
+
+  <!-- sheet label -->
+  <rect x="64" y="52" width="6" height="6" fill="#58A6FF"/>
+  <text x="84" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="3.2" fill="#6E7681">REFERENCE INFERENCE PATH</text>
+  <text x="1136" y="58" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="3.2" fill="#3D444D">FIG. 01</text>
+  <path d="M64 78H1136" stroke="#1C2128" stroke-width="1"/>
+
+  <!-- ============================================================
+       SPINE
+       ============================================================ -->
+  <g stroke="#30363D" stroke-width="1" fill="none">
+    <path d="M600 174V206"/>
+    <path d="M600 274V306"/>
+    <path d="M600 374V406"/>
+    <path d="M600 474V502"/>
+    <path d="M420 502H780"/>
+    <path d="M420 502V534"/>
+    <path d="M600 502V534"/>
+    <path d="M780 502V534"/>
+    <path d="M420 598V622H780V598"/>
+    <path d="M600 598V622"/>
+    <path d="M600 622V646"/>
+  </g>
+
+  <g fill="#30363D">
+    <path d="M596 206l4 6 4-6z"/>
+    <path d="M596 306l4 6 4-6z"/>
+    <path d="M596 406l4 6 4-6z"/>
+    <path d="M416 534l4 6 4-6z"/>
+    <path d="M596 534l4 6 4-6z"/>
+    <path d="M776 534l4 6 4-6z"/>
+    <path d="M596 646l4 6 4-6z"/>
+  </g>
+
+  <!-- ============================================================
+       NODES
+       ============================================================ -->
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" letter-spacing="2.6" text-anchor="middle">
+
+    <!-- CLIENT -->
+    <rect x="440" y="122" width="320" height="52" rx="6" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+    <text x="600" y="153" font-size="12" fill="#C9D1D9">CLIENT</text>
+    <text x="784" y="153" text-anchor="start" font-size="10.5" letter-spacing="1.8" fill="#484F58">web &#183; service &#183; agent</text>
+
+    <!-- GATEWAY -->
+    <rect x="440" y="222" width="320" height="52" rx="6" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+    <text x="600" y="253" font-size="12" fill="#C9D1D9">API GATEWAY</text>
+    <text x="784" y="253" text-anchor="start" font-size="10.5" letter-spacing="1.8" fill="#484F58">fastapi &#183; rate limits</text>
+
+    <!-- AUTH -->
+    <rect x="440" y="322" width="320" height="52" rx="6" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+    <text x="600" y="353" font-size="12" fill="#C9D1D9">AUTHENTICATION</text>
+    <text x="784" y="353" text-anchor="start" font-size="10.5" letter-spacing="1.8" fill="#484F58">tokens &#183; scopes</text>
+
+    <!-- ROUTER -->
+    <rect x="440" y="422" width="320" height="52" rx="6" fill="#0D1117" stroke="#58A6FF" stroke-width="1"/>
+    <text x="600" y="453" font-size="12" fill="#F0F6FC">MODEL ROUTER</text>
+    <text x="784" y="453" text-anchor="start" font-size="10.5" letter-spacing="1.8" fill="#58A6FF">policy &#183; fallback</text>
+    <rect x="428" y="444" width="8" height="8" transform="rotate(45 432 448)" fill="#0A0C10" stroke="#58A6FF" stroke-width="1"/>
+
+    <!-- MODELS -->
+    <rect x="320" y="546" width="200" height="52" rx="6" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+    <text x="420" y="577" font-size="11.5" fill="#C9D1D9">HOSTED LLM</text>
+
+    <rect x="500" y="546" width="200" height="52" rx="6" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+    <text x="600" y="577" font-size="11.5" fill="#C9D1D9">SELF-SERVED</text>
+
+    <rect x="680" y="546" width="200" height="52" rx="6" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+    <text x="780" y="577" font-size="11.5" fill="#C9D1D9">RAG + VECTORS</text>
+
+    <!-- RESPONSE -->
+    <rect x="440" y="654" width="320" height="30" rx="6" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+    <text x="600" y="674" font-size="11.5" fill="#8B949E">RESPONSE</text>
+  </g>
+
+  <!-- left index rail -->
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.6" fill="#3D444D" text-anchor="end">
+    <text x="392" y="153">01</text>
+    <text x="392" y="253">02</text>
+    <text x="392" y="353">03</text>
+    <text x="392" y="453">04</text>
+    <text x="392" y="530">05</text>
+    <text x="392" y="674">06</text>
+  </g>
+
+</svg>
