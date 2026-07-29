@@ -36,7 +36,7 @@ degrade predictably rather than surprisingly.
   <tr>
     <td width="150" valign="middle"><sub><b>LANGUAGES</b></sub></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=py,cpp&theme=dark" alt="Python, C++" height="42" />
+      <img src="https://skillicons.dev/icons?i=py,cpp&theme=light" alt="Python, C++" height="42" />
       <br>
       <sub><code>SQL</code></sub>
     </td>
@@ -44,7 +44,7 @@ degrade predictably rather than surprisingly.
   <tr>
     <td width="150" valign="middle"><sub><b>BACKEND</b></sub></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=fastapi,redis,postgres&theme=dark" alt="FastAPI, Redis, PostgreSQL" height="42" />
+      <img src="https://skillicons.dev/icons?i=fastapi,redis,postgres&theme=light" alt="FastAPI, Redis, PostgreSQL" height="42" />
       <br>
       <sub><code>REST APIs</code> <code>WebSockets</code> <code>Async I/O</code> <code>Pydantic</code></sub>
     </td>
@@ -52,7 +52,7 @@ degrade predictably rather than surprisingly.
   <tr>
     <td width="150" valign="middle"><sub><b>AI</b></sub></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch, scikit-learn" height="42" />
+      <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light" alt="PyTorch, scikit-learn" height="42" />
       <br>
       <sub><code>LLMs</code> <code>RAG</code> <code>Transformers</code> <code>LangChain</code> <code>LangGraph</code> <code>Hugging Face</code> <code>LoRA</code> <code>PEFT</code></sub>
     </td>
@@ -60,7 +60,7 @@ degrade predictably rather than surprisingly.
   <tr>
     <td width="150" valign="middle"><sub><b>DEVOPS</b></sub></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=docker,git,linux,githubactions&theme=dark" alt="Docker, Git, Linux, CI/CD" height="42" />
+      <img src="https://skillicons.dev/icons?i=docker,git,linux,githubactions&theme=light" alt="Docker, Git, Linux, CI/CD" height="42" />
     </td>
   </tr>
 </table>
@@ -109,14 +109,14 @@ internal data remain confidential.
       <p>Parses raw UPI statements, categorises spend and answers plain-language questions about where the money went.</p>
       <sub><code>Python</code> <code>LLM</code> <code>Pandas</code> <code>FastAPI</code></sub>
       <br><br>
-      <a href="https://github.com/AshwiniRamesh27/ai-upi-transaction-analyzer"><img src="https://img.shields.io/badge/Repository-0D1117?style=flat&logo=github&logoColor=8B949E&labelColor=0D1117" alt="Repository" /></a>
+      <a href="https://github.com/AshwiniRamesh27/ai-upi-transaction-analyzer"><img src="https://img.shields.io/badge/Repository-F6F8FA?style=flat&logo=github&logoColor=24292F&labelColor=F6F8FA" alt="Repository" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>Sentiment Analysis on ChatGPT Reviews</h4>
       <p>Classifies user reviews at scale and surfaces the themes behind each rating band rather than a single score.</p>
       <sub><code>Python</code> <code>Transformers</code> <code>scikit-learn</code> <code>NLP</code></sub>
       <br><br>
-      <a href="https://github.com/AshwiniRamesh27/chatgpt-reviews-sentiment-analysis"><img src="https://img.shields.io/badge/Repository-0D1117?style=flat&logo=github&logoColor=8B949E&labelColor=0D1117" alt="Repository" /></a>
+      <a href="https://github.com/AshwiniRamesh27/chatgpt-reviews-sentiment-analysis"><img src="https://img.shields.io/badge/Repository-F6F8FA?style=flat&logo=github&logoColor=24292F&labelColor=F6F8FA" alt="Repository" /></a>
     </td>
   </tr>
   <tr>
@@ -125,14 +125,14 @@ internal data remain confidential.
       <p>Maps skin profile and ingredient constraints to product recommendations, with retrieval over a curated ingredient corpus.</p>
       <sub><code>Python</code> <code>RAG</code> <code>Vector Search</code> <code>Streamlit</code></sub>
       <br><br>
-      <a href="https://github.com/AshwiniRamesh27/ai-skincare-recommendation-system"><img src="https://img.shields.io/badge/Repository-0D1117?style=flat&logo=github&logoColor=8B949E&labelColor=0D1117" alt="Repository" /></a>
+      <a href="https://github.com/AshwiniRamesh27/ai-skincare-recommendation-system"><img src="https://img.shields.io/badge/Repository-F6F8FA?style=flat&logo=github&logoColor=24292F&labelColor=F6F8FA" alt="Repository" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>More</h4>
       <p>Experiments in fine-tuning, agent tooling and inference performance live alongside these.</p>
       <sub><code>LoRA</code> <code>PEFT</code> <code>LangGraph</code> <code>MCP</code></sub>
       <br><br>
-      <a href="https://github.com/AshwiniRamesh27?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-0D1117?style=flat&logo=github&logoColor=8B949E&labelColor=0D1117" alt="All repositories" /></a>
+      <a href="https://github.com/AshwiniRamesh27?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-F6F8FA?style=flat&logo=github&logoColor=24292F&labelColor=F6F8FA" alt="All repositories" /></a>
     </td>
   </tr>
 </table>
@@ -166,32 +166,20 @@ internal data remain confidential.
 
 <br>
 
-## Architecture
-
-The shape most of my work takes — one request, from client to served response.
-
-<img src="https://raw.githubusercontent.com/AshwiniRamesh27/AshwiniRamesh27/main/assets/architecture.svg" alt="Reference inference path: client, gateway, authentication, model router, models, response" width="100%" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/AshwiniRamesh27/AshwiniRamesh27/main/assets/divider.svg" alt="" width="100%" />
-
-<br>
-
 ## GitHub
 
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=AshwiniRamesh27&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide=issues&count_private=true" alt="GitHub statistics" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AshwiniRamesh27&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=0969DA&text_color=57606A&icon_color=0969DA&hide=issues&count_private=true" alt="GitHub statistics" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniRamesh27&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniRamesh27&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=0969DA&text_color=57606A&langs_count=8" alt="Top languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=AshwiniRamesh27&hide_border=true&background=00000000&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6E7681" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=AshwiniRamesh27&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&currStreakNum=0D1117&sideNums=0D1117&dates=8C959F" alt="Contribution streak" />
 
 <br>
 
