@@ -186,42 +186,7 @@ Multimodal AI application combining image understanding with LLM-powered recomme
 - MLOps
 - Distributed AI Systems
 
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AshwiniRamesh27&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniRamesh27&layout=compact&theme=transparent&hide_border=true"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshwiniRamesh27&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# Currently Exploring
-
-- Long Context LLMs
-- AI Agents
-- LangGraph
-- Multi-Agent Systems
-- MCP
-- Distributed AI Architectures
-- Open Source Models
-- Inference Optimization
-
----
-
-# Philosophy
-
-> Great AI isn't just about the model.
-
-> It's about the engineering that makes the model reliable, scalable, observable, secure, and usable in production.
-
----
+----------------
 
 # Let's Connect
 
