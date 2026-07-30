@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./images/bunny.svg" alt="Bunny" width="100%">
-</p>
+<img src="bunny.svg">
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=36&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ashwini+Ramesh;AI%2FML+Engineer;LLM+%2B+Backend+Engineer;Building+Production+AI+Systems" alt="Typing SVG" />
