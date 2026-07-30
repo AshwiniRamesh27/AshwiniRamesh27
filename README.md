@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=AshwiniRamesh27&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AshwiniRamesh27&label=Profile%20Views&color=0e75b6&style=flat"  />
 </p>
 
 </div>
@@ -45,7 +45,6 @@ I build the layer between a language model and the people who depend on it — a
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="52" alt="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="52" alt="FastAPI" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="52" alt="PostgreSQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="52" alt="Redis" />
@@ -56,7 +55,6 @@ I build the layer between a language model and the people who depend on it — a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="52" alt="Pandas" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="52" alt="Docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="Linux" />
 <img src="https://img.shields.io/badge/CI%2FCD-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF" height="32" alt="CI/CD" />
 
 </div>
@@ -100,7 +98,7 @@ Production AI systems and backend platform. Selected contributions; implementati
 - Added MLOps groundwork: containerized deployments, versioning, logging, and regression checks before release.
 
 ---
-
+## ✦ Projects
 ### AI UPI Transaction Analyzer
 An LLM-backed analyzer that turns raw UPI statements into a queryable picture of personal spend, answering plain-language questions instead of returning another dashboard.
 
