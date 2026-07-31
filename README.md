@@ -37,7 +37,7 @@ location: India
 status: Building production AI at Aalee AI
 ```
 
-I build the infrastructure layer that connects language models and AI agents to real-world applications. My work focuses on authenticated model APIs, retrieval-augmented generation (RAG) pipelines, agent orchestration, model routing and serving, and the observability systems that ensure reliable behavior under production traffic. I primarily work with Python and FastAPI, backed by PostgreSQL, Redis, and Docker-based deployment workflows. I care about latency-aware system design, rigorous evaluation before deployment, and production architectures that remain predictable, measurable, and resilient as models, traffic, and agent workflows scale.
+**I build the infrastructure layer that connects language models and AI agents to real-world applications. My work focuses on authenticated model APIs, retrieval-augmented generation (RAG) pipelines, agent orchestration, model routing and serving, and the observability systems that ensure reliable behavior under production traffic. I primarily work with Python and FastAPI, backed by PostgreSQL, Redis, and Docker-based deployment workflows. I care about latency-aware system design, rigorous evaluation before deployment, and production architectures that remain predictable, measurable, and resilient as models, traffic, and agent workflows scale.**
 .
 ---
 
