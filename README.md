@@ -37,8 +37,8 @@ location: India
 status: Building production AI at Aalee AI
 ```
 
-I build the layer between a language model and the people who depend on it — authenticated APIs, retrieval pipelines, routing and serving logic, and the observability that keeps them honest under real traffic. Most of my work is Python and FastAPI, with Postgres and Redis underneath and Docker around it. I care about latency budgets, evaluation before deployment, and systems that degrade predictably rather than surprisingly.
-
+I build the infrastructure layer that connects language models and AI agents to real-world applications. My work focuses on authenticated model APIs, retrieval-augmented generation (RAG) pipelines, agent orchestration, model routing and serving, and the observability systems that ensure reliable behavior under production traffic. I primarily work with Python and FastAPI, backed by PostgreSQL, Redis, and Docker-based deployment workflows. I care about latency-aware system design, rigorous evaluation before deployment, and production architectures that remain predictable, measurable, and resilient as models, traffic, and agent workflows scale.
+.
 ---
 
 ## ✦ Tech Stack
@@ -77,25 +77,42 @@ I build the layer between a language model and the people who depend on it — a
 </div>
 
 ## ✦ Current Focus
-- Building enterprise AI systems that survive audit, scale, and cost review.
-- Deepening LLM infrastructure work — serving, routing, caching, evaluation.
-- Exploring agentic AI: tool calling with bounded, observable execution.
-- Working with MCP for standardized context and tool interfaces.
+* Building enterprise-grade AI systems designed for auditability, scalability, security, and cost efficiency.
+* Deepening expertise in LLM infrastructure, including model serving, intelligent routing, semantic caching, retrieval pipelines, and evaluation frameworks.
+* Designing agentic AI systems with structured tool calling, bounded execution, observability, and production-safe orchestration.
+* Working with the Model Context Protocol (MCP) to build standardized interfaces for context retrieval, external tools, and multi-agent workflows.
+
 
 ---
 
 ## ✦ Experience
 
 ### AI/ML Engineer — Aalee AI
-Production AI systems and backend platform. Selected contributions; implementation details, model configurations, and internal data remain confidential.
 
-- Designed and shipped LLM-backed APIs in FastAPI, from request schema and authentication through streaming responses and error handling.
-- Built retrieval-augmented generation pipelines: chunking, embedding, vector search, reranking, and grounded answer assembly.
-- Stood up model serving and routing so requests reach the right model with sane fallbacks, timeouts, and cost controls.
-- Worked on fine-tuning with LoRA/PEFT for narrow tasks, including dataset preparation and evaluation against a held-out benchmark.
-- Contributed to agentic AI workflows — tool calling, state handling, and bounded multi-step execution.
-- Implemented authentication and access control across internal and customer-facing backend services.
-- Added MLOps groundwork: containerized deployments, versioning, logging, and regression checks before release.
+Production AI systems and backend platform.
+
+* Built LLM-powered APIs and backend services using FastAPI, integrating external APIs, authentication, streaming responses, and tool-calling workflows.
+* Developed RAG pipelines with embeddings, vector search, and reranking.
+* Worked on LoRA/PEFT fine-tuning and agentic AI workflows.
+* Containerized services with Docker and supported Jenkins-based deployments.
+
+### AI Intern — GUVI HCL
+
+Applied AI and data engineering in project-based development.
+
+* Built data pipelines for text, image, and structured data.
+* Developed Streamlit applications for LLM and RAG prototypes.
+* Worked with SQL and API integrations for AI applications.
+
+### Scientist — ProeKlean Technologies
+
+**Junior Research Scientist (Computational Chemistry)**
+
+* Conducted computational formulation research using PubChem, Reaxys, and InciDecoder.
+* Applied cheminformatics and molecular property analysis for ingredient optimization.
+* Supported formulation development through data-driven compound evaluation and cross-functional collaboration.
+
+
 
 ---
 ## ✦ Projects
